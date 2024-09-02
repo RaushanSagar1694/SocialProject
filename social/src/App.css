@@ -1,0 +1,19 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero{
+  width: 100%;
+  height: 100vh;
+  background-image: url(./assets/image/back-image.png);
+  background-position: center;
+  background-size: cover;
+  padding: 20px 20px;
+  overflow: hidden;
+  position: relative;
+}

@@ -1,0 +1,37 @@
+
+
+.content{
+    margin-top: 10%;
+    margin-left: 7%;
+    max-width: 600px;
+}
+
+.content h1{
+    font-size: 40px;
+    color: #222;
+}
+
+.content p{
+    margin: 10px 0 30px;
+    color: #333;
+}
+
+.content .btn{
+    padding: 15px 80px;
+    font-size: 16px;
+}
+
+.btn:hover{
+    border-top-right-radius: 30px;
+}
+
+img{
+    
+}
+
+.main-image{
+    width: 530px;
+    position: absolute;
+    bottom:0;
+    right: 10%;
+}
